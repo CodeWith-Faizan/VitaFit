@@ -20,19 +20,19 @@ This project leverages a modern tech stack to deliver a robust and interactive e
 
 ### Frontend:
 
-React.js: A powerful JavaScript library for building user interfaces.
+- React.js: A powerful JavaScript library for building user interfaces.
 
-Axios: A promise-based HTTP client for making API requests to the backend.
+- Axios: A promise-based HTTP client for making API requests to the backend.
 
 ### Backend:
 
-Python: The core programming language for the backend logic.
+- Python: The core programming language for the backend logic.
 
-FastAPI: A modern, fast (high-performance) web framework for building APIs with Python 3.7+.
+- FastAPI: A modern, fast (high-performance) web framework for building APIs with Python 3.7+.
 
-Uvicorn: An ASGI server for running asynchronous Python web applications, providing high concurrency.
+- Uvicorn: An ASGI server for running asynchronous Python web applications, providing high concurrency.
 
-Machine Learning/AI: (Implicitly) Models for exercise prediction, diet planning, and image-based food detection/calorie estimation.
+- Machine Learning/AI: (Implicitly) Models for exercise prediction, diet planning, and image-based food detection/calorie estimation.
 
 ## How It Works (High-Level)
 The application guides you through a seamless process:
@@ -48,3 +48,8 @@ Interactive AI: Engage with the AI chat assistant for deeper insights or specifi
 Food Analysis: Use the calorie estimation feature to upload images of your meals, which are analyzed by the backend to identify dishes and estimate calorie content.
 
 Download Report: A comprehensive PDF report compiling all your personalized data and plans is available for download.
+
+
+## You can try it  here
+
+https://vitafit-vercel.vercel.app/
