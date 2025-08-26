@@ -2,6 +2,11 @@
 
 Welcome to VitaFit AI, an intelligent web application designed to help you achieve your fitness and nutrition goals through personalized exercise and diet plans, powered by AI-driven insights and image-based calorie estimation.
 
+### Homepage
+![Homepage](Homepage.png)
+
+---
+
 ## Features
 - Personalized Fitness Plans: Generate tailored daily exercise recommendations based on your age, gender, height, weight, and calorie intake.
 
